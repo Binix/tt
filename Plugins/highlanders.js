@@ -1,7 +1,7 @@
 var hlr = {
     version: '0.0.1',
 
-    maintainers: ['TheUnknownOne'],
+    maintainers: ['Binix'],
 
     isMaintainer: function (id) {
         return hlr.maintainers.indexOf(hlr.nameOf(id)) > -1;
